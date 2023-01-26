@@ -1,2 +1,3 @@
-# sabloane_proiectare
-incarcare laborator sabloane de proiectare
+# Nota finala 7
+Nota proiect: 5
+Nota test: 9
